@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+:root {
+    /* COLORS */
+    --color-light: #ffffff;
+    --color-white-10: rgba(255, 255, 255, 0.1);
+
+    --color-focus-primary: #85D3FF;
+
+    --color-grey-100: #D7D5D5;
+    --color-grey-300: #9F9F9F;
+    --color-grey-500: #5F5D5D;
+    --color-grey-700: #302F2F;
+    --color-grey-1000: #000000;
+
+    --color-red-100: #FF7C7C;
+    --color-red-700: #D60000;
+    --color-red-800: #C70000;
+
+    --color-green-100: #88DC73;
+    --color-green-700: #29C103;
+    --color-green-800: #25A006;
+
+    --color-light-blue-100: #62CEFD;
+    --color-light-blue-700: #00B2FF;
+    --color-light-blue-800: #009FE3;
+
+    /* SPACINGS */
+    --gap-s: 0.25rem;
+    --gap-m: 0.5rem;
+    --gap-l: 0.75rem;
+    --gap-xl: 1rem;
+    --gap-2xl: 2rem;
+    --gap-3xl: 4rem;
+
+    /* TYPOGRAPHY */
+    --fs-xs: 0.75rem;
+    --fs-s: 0.875rem;
+    --fs-m: 1rem;
+    --fs-l: 1.25rem;
+    --fs-xl: 1.5rem;
+    --fs-2xl: 2rem;
+    --fs-3xl: 3rem;
+}   
